@@ -1,1 +1,0 @@
-web: panel serve --address="0.0.0.0" --port=$PORT Untitled.ipynb --allow-websocket-origin=communal-compound.herokuapp.com

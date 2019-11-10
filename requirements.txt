@@ -1,5 +1,0 @@
-panel
-geopandas
-hvplot
-geoviews
-Cython
