@@ -1,0 +1,20 @@
+name: compound
+channels:
+  - pyviz
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - geopandas
+  - altair
+  - matplotlib
+  - ipympl
+  - descartes
+  - mapclassify
+  - rtree
+  - psycopg2
+  - geopy
+  - bokeh
+  - geoviews
+  - iris
+  - xesmf
+  - hvplot
