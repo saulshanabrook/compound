@@ -18,3 +18,4 @@ dependencies:
   - iris
   - xesmf
   - hvplot
+  - panel
