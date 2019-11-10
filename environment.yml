@@ -5,9 +5,6 @@ channels:
 dependencies:
   - jupyterlab
   - geopandas
-  - altair
-  - matplotlib
-  - ipympl
   - descartes
   - mapclassify
   - rtree

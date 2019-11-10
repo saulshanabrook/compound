@@ -1,0 +1,4 @@
+panel
+geopandas
+hvplot
+geoviews
