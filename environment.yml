@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - jupyterlab
+  - jupyter-panel-proxy
   - geopandas
   - rtree
   - bokeh
