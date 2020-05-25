@@ -1,18 +1,28 @@
 name: compound
 channels:
-  # - pyviz
+#   - pyviz
   - conda-forge
 dependencies:
   - jupyterlab
-  - jupyter-panel-proxy
   - geopandas
-  - rtree
-  - bokeh
-  - geoviews
+#   - rtree
+#   - bokeh
+  - geoviews>=1.6
   - hvplot
   - pyproj
-  - panel
   - pip
+  - shapely
   - geopy
+  - panel
+  - param
+  - altair
+#   - bokeh
+#   - matplotlib
+#   - geopy
+#   - descartes
+#   - mapclassify
+#   - iris
+#   - xesmf
+#   - ipympl
   - pip:
     - dbfread
