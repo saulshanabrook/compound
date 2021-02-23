@@ -3,7 +3,7 @@ channels:
 #   - pyviz
   - conda-forge
 dependencies:
-  - jupyterlab
+  - jupyterlab<3.0.0
   - geopandas
 #   - rtree
 #   - bokeh
@@ -16,6 +16,7 @@ dependencies:
   - panel
   - param
   - altair
+  - folium
 #   - bokeh
 #   - matplotlib
 #   - geopy
@@ -26,3 +27,5 @@ dependencies:
 #   - ipympl
   - pip:
     - dbfread
+    - ortools
+    - openrouteservice
